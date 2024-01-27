@@ -1,1 +1,1 @@
-<b><i>Doing the webscraping using pythob</i></b>
+<b><i>Doing the webscraping using python</i></b>
